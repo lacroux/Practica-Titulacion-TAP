@@ -1,5 +1,9 @@
 
+
 Sistema de Gestión Web y de Escritorio - Control Operativo Centralizado 
+
+
+<img width="832" height="474" alt="image" src="https://github.com/user-attachments/assets/29a74705-c5c0-4892-a0a6-b2db846788be" />
 
 🚀📋 Descripción del Proyecto
 
@@ -52,7 +56,6 @@ Técnico y desarrolladores Full-Stack.
 Autor: Yobany Paolo La Cruz Delgado 
 Carrera: Programación y Análisis de Sistemas Institución: Instituto Profesional AIEP 
 
-<img width="832" height="474" alt="image" src="https://github.com/user-attachments/assets/29a74705-c5c0-4892-a0a6-b2db846788be" />
 
 
 
